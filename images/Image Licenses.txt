@@ -1,4 +1,4 @@
-Silent Notes uses the following images:
+Silent-Notes uses the following images:
 
 Check Mark:
 
@@ -25,3 +25,7 @@ Hourglass:
 These SVG images were created by modifying the images of Pixabay.
 These are released under Creative Commons CC0.
 https://svgsilh.com/b60606/image/23654.html
+
+dknapps.de:
+
+The logo of dknapps.de
